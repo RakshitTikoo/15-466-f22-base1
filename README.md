@@ -1,6 +1,6 @@
-# (Time-Stop Juggler)
+# Time-Stop Juggler
 
-Author: (Rakshit Tikoo)
+Author: Rakshit Tikoo
 
 Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
 
