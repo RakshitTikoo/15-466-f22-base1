@@ -20,17 +20,17 @@ All the assets can be found in this directory - [link](Assets/)
 The following assets are there - 
 
 
-[Screen Shot](Assets/Background.png) This gives the background color.
+![Screen Shot](Assets/Background.png) This gives the background color.
 
-[Screen Shot](Assets/Ball.png) This is the sprite for the main playable balls. 
+![Screen Shot](Assets/Ball.png) This is the sprite for the main playable balls. 
 
-[Screen Shot](Assets/Bomb.png) This is the sprite for the bombs. 
+![Screen Shot](Assets/Bomb.png) This is the sprite for the bombs. 
 
-[Screen Shot](Assets/Clock.png) This is the sprite for the time-freeze power up.
+![Screen Shot](Assets/Clock.png) This is the sprite for the time-freeze power up.
 
-[Screen Shot](Assets/ExtraLife.png) This is the sprite for the extra-life power up. 
+![Screen Shot](Assets/ExtraLife.png) This is the sprite for the extra-life power up. 
 
-[Screen Shot](Assets/Player.png) This is the sprite for the player. 
+![Screen Shot](Assets/Player.png) This is the sprite for the player. 
 
 
 How To Play:
